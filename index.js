@@ -9,7 +9,6 @@ const rodarCalculoClimatico = require('./scripts/calculadoraClimatica.js');
 const rodarSistemaCombustivel = require('./scripts/sistemaPostoCombustivel.js');
 const rodarSistemaFrutaria = require('./scripts/sistemafrutaria.js');
 const rodarSistemaHospitalar = require('./scripts/sistemaHospitalar.js');
-const rodarCodigo = require('./scripts/39exercicio.js');
 
 const start = async () => {
   while (true) {
